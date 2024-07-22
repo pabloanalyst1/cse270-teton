@@ -2,7 +2,7 @@
 name: Simple CI/CD Pipeline for CSE 270
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes targeting the default branch.
   push:
     branches: ["main"]
 
